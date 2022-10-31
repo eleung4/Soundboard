@@ -24,7 +24,10 @@ class MainActivity : AppCompatActivity() {
     lateinit var buttonB : Button
     lateinit var buttonC : Button
     lateinit var buttonCs : Button
+    lateinit var buttonD : Button
+    lateinit var buttonDs : Button
     lateinit var soundPool : SoundPool
+
     var aNote = 0
     var bbNote = 0
     var bNote = 0
